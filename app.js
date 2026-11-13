@@ -4,7 +4,7 @@
 const CONFIG = {
   // онлайн-бронь ресторана через Яндекс (их собственная система бронирования)
   bookingUrl: 'https://yandex.ru/web-maps/webview?booking%5Bpermalink%5D=160429076914&booking%5Bstandalone%5D=true&mode=booking&source=partner-cta',
-  showDemoBadge: true,              // плашка «Демо-версия» — убрать после согласования
+  showDemoBadge: false,              // плашка «Демо-версия» — убрать после согласования
   devName: 'Разработчик: Иван',
   devLink: '',                      // например 'https://t.me/your_nick'
   // 0 = воскресенье … 6 = суббота
